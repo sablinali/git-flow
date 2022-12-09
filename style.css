@@ -1,6 +1,7 @@
 * {
     padding: 0;
     margin: 0;
+   
 }
 
 /* add some color to the body 🎨 */
@@ -9,4 +10,5 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: blueviolet;
 }
